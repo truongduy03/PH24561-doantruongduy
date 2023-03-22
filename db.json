@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "name": "Phuong ",
+      "username": "phuongthuy",
+      "email": "phuongthuy@gmail.com",
+      "phone": "9956976967",
+      "id": 1
+    },
+    {
+      "name": "Trong  ",
+      "username": "trongkien123",
+      "email": "trongkien@gmail.com",
+      "phone": "9956976967",
+      "id": 2
+    },
+    {
+      "name": "Minh Dung",
+      "username": "minhdung123",
+      "email": "minhdung@gmail.com",
+      "phone": "9956976967",
+      "id": 4
+    },
+    {
+      "name": "Thuy Huong",
+      "username": "thuyhuong4567",
+      "email": "thuyhuong2547@gmail.com",
+      "phone": "444444444444",
+      "id": 5
+    },
+    {
+      "name": "Trong Kien 2",
+      "username": "trongkien123",
+      "email": "trongkien@gmail.com",
+      "phone": "9956976967",
+      "id": 6
+    }
+  ]
+}
